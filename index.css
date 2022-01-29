@@ -1,4 +1,13 @@
+body {
+    background-color: rgb(243, 232, 184);
+}
+
 h1 {
-  color: pink;
-  text-align: center;
+    text-align: center;
+    color: var(color);
+}
+}
+
+.winniethepooh {
+    opacity: 0.5;
 }
